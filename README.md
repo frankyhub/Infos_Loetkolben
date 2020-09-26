@@ -1,4 +1,4 @@
-# Infos_Loetkolben
+# Infos Lötkolben
 
 - Bedienungsanleitung
 - Sicherer Umgang mit dem Lötkolben
